@@ -18,16 +18,16 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: io.reactivex.rxjava2:rxjava:2.1.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: io.reactivex.rxjava2:rxjavafx:2.1.0" level="project" />
-    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.reactivex.rxjava2:rxjavafx:2.1.0" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.reactivex.rxjava2:rxjavafx:2.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.reactivestreams:reactive-streams:1.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:guava:21.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: io.reactivex.rxjava2:rxjavafx:2.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: io.reactivex.rxjava2:rxjava:2.1.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.reactivestreams:reactive-streams:1.0.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: com.google.guava:guava:21.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.reactivex.rxjava2:rxjavafx:2.1.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: io.reactivex.rxjava2:rxjava:2.1.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.reactivestreams:reactive-streams:1.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: com.google.guava:guava:21.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: io.reactivex.rxjava2:rxjavafx:2.1.0" level="project" />
   </component>
 </module>
