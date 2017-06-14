@@ -9,6 +9,6 @@ public class Ch2_11 {
 //first observer
         source.subscribe(s -> System.out.println("Observer 1 Received: " + s));
 //second observer
-                source.subscribe(s -> System.out.println("Observer 2 Received: " + s));
+        source.subscribe(s -> System.out.println("Observer 2 Received: " + s));
     }
 }

@@ -9,7 +9,7 @@ public class Ch2_12 {
 //first observer
         source.subscribe(s -> System.out.println("Observer 1 Received: " + s));
 //second observer
-                source.map(String::length).filter(i -> i >= 5)
-                        .subscribe(s -> System.out.println("Observer 2 Received: " + s));
+        source.map(String::length).filter(i -> i >= 5)
+                .subscribe(s -> System.out.println("Observer 2 Received: " + s));
     }
 }
