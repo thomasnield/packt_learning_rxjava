@@ -1,3 +1,5 @@
+/* Compilable code examples can be found at https://github.com/thomasnield/packt_learning_rxjava */
+
 package ch5;
 
 import io.reactivex.subjects.ReplaySubject;
